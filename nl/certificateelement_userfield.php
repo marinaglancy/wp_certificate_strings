@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_userfield', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_userfield', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_userfield
  * @category    string
@@ -25,6 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Gebruikersveld';
-$string['privacy:metadata'] = 'De Gebruikersveld-plugin bewaart geen persoonlijke gegevens.';
-$string['userfield'] = 'Gebruikersveld';
+$string['pluginname'] = 'Gebruikers veld';
+$string['privacy:metadata'] = 'De Gebruikers veld plugin slaat geen persoonlijke gegevens op.';
+$string['userfield'] = 'Gebruikers veld';
+$string['userfield_help'] = 'Dit het gebruikers veld dat wordt getoond op de PDF.';

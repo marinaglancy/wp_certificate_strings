@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_text', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_text', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_text
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Tekst';
-$string['privacy:metadata'] = 'De Tekst-plugin bewaart geen persoonlijke gegevens.';
+$string['privacy:metadata'] = 'De Tekst plugin slaat geen persoonlijke gegevens op.';
 $string['text'] = 'Tekst';
-$string['text_help'] = 'Dit is de tekst die op de PDF zal worden getoond.';
+$string['text_help'] = 'Dit is de tekst die wordt getoond op de PDF.';

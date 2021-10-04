@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_program', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_program', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_program
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['fieldoptions'] = 'Veld';
-$string['fieldoptions_help'] = 'Het weer te geven veld. Als je meer dan een veld wilt weergeven, voeg dan meer instanties van dit element toe en configureer ze vervolgens naar wens.';
+$string['fieldoptions_help'] = 'Het getoonde veld. Als je meer dan 1 veld moet tonen, voeg dan meer elementen van dit type toe en configureer die overeenkomstig.';
 $string['pluginname'] = 'Dynamische velden';
-$string['privacy:metadata'] = 'De Dynamische velden-plugin bewaart geen persoonlijke gegevens.';
+$string['privacy:metadata'] = 'De Dynamische velden slaat geen persoonlijke data op.';

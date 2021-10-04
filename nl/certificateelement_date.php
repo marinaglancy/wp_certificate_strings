@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_date', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_date', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_date
  * @category    string
@@ -25,6 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['expirydate'] = 'Vervaldatum';
-$string['issueddate'] = 'Datum van uitgifte';
+$string['dateformat'] = 'Datum weergave';
+$string['dateformat_help'] = 'Dit is de datum weergave waarin de datum wordt getoond';
+$string['dateitem'] = 'Datum veld';
+$string['dateitem_help'] = 'Dit is de datum die op het certificaat zal worden weergegeven';
+$string['expirydate'] = 'Verloop datum';
+$string['issueddate'] = 'Datum uitgifte';
 $string['pluginname'] = 'Datum';
+$string['privacy:metadata'] = 'De Datum plugin slaat geen persoonlijke gegevens op.';

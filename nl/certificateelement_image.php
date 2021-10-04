@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_image', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_image', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_image
  * @category    string
@@ -25,13 +25,14 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['height_help'] = 'Hoogte van de afbeelding in mm. Indien gelijk aan nul wordt dit automatisch berekend.';
-$string['imagerequired'] = 'Upload een afbeelding of selecteer een gedeelde afbeelding';
-$string['invalidheight'] = 'De hoogte moet een geldige waarde zijn groter of gelijk aan 0.';
-$string['invalidwidth'] = 'De breedte moet een geldige waarde zijn groter of gelijk aan 0.';
-$string['isbackground'] = 'Gebruik als achtergrondafbeelding';
+$string['height'] = 'Hoogte';
+$string['height_help'] = 'Hoogte van de afbeelding in mm. Indien gelijk aan 0 wordt deze automatisch berekend.';
+$string['imagerequired'] = 'Je moet een afbeelding uploaden of een gedeelde afbeelding selecteren';
+$string['invalidheight'] = 'De hoogte moet een geldig nummer zijn groter of gelijk aan 0.';
+$string['invalidwidth'] = 'De breedte moet een geldig nummer zijn groter of gelijk aan 0.';
+$string['isbackground'] = 'Gebruik een achtergrond afbeelding';
 $string['pluginname'] = 'Afbeelding';
-$string['privacy:metadata'] = 'De Afbeelding-plugin bewaart geen persoonlijke gegevens.';
+$string['privacy:metadata'] = 'De Afbeelding plugin slaat geen persoonlijke gegevens op.';
 $string['selectsharedimage'] = 'Selecteer gedeelde afbeelding';
 $string['width'] = 'Breedte';
-$string['width_help'] = 'Breedte van de afbeelding in mm. Indien gelijk aan nul wordt dit automatisch berekend.';
+$string['width_help'] = 'Breedte van de afbeelding in mm. Indien gelijk aan 0 wordt deze automatisch berekend.';

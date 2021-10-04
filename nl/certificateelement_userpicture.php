@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_userpicture', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_userpicture', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_userpicture
  * @category    string
@@ -26,3 +26,10 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['height'] = 'Hoogte';
+$string['height_help'] = 'Hoogte van de afbeelding in mm. Indien gelijk aan 0, wordt deze automatisch berekend.';
+$string['invalidheight'] = 'De hoogte moet een geldig getal zijn groter of gelijk aan 0.';
+$string['invalidwidth'] = 'De breedte moet een geldig getal zijn groter of gelijk aan 0.';
+$string['pluginname'] = 'Gebruikers afbeelding';
+$string['privacy:metadata'] = 'De Gebruikers afbeelding plugin slaat geen persoonlijke gegevens op.';
+$string['width'] = 'Breedte';
+$string['width_help'] = 'Breedte van de afbeelding in mm. Indien gelijk aan 0, wordt deze automatisch berekend.';

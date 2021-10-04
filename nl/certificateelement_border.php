@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_border', language 'nl', version '3.11'.
+ * Strings for component 'certificateelement_border', language 'nl_wp', version '3.11'.
  *
  * @package     certificateelement_border
  * @category    string
@@ -25,7 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['invalidwidth'] = 'De breedte moet een geldige waarde zijn groter dan 0.';
+$string['invalidwidth'] = 'De breedte moet een geldig getal zijn groter dan 0.';
 $string['pluginname'] = 'Rand';
-$string['privacy:metadata'] = 'De Rand-plugin bewaart geen persoonlijke gegevens.';
+$string['privacy:metadata'] = 'De Rand plugin slaat geen persoonlijke gegevens op.';
 $string['width'] = 'Breedte';
+$string['width_help'] = 'Breedte van de rand in mm.';
