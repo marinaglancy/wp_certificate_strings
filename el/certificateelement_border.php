@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_border', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_border', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_border
  * @category    string
@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['invalidwidth'] = 'Το πλάτος πρέπει να είναι έγκυρος αριθμός μεγαλύτερος από 0.';
-$string['pluginname'] = 'Περίγραμμα';
-$string['privacy:metadata'] = 'Το πρόσθετο περιγράμματος δεν αποθηκεύει καθόλου προσωπικά δεδομένα.';
+$string['invalidwidth'] = 'Το πλάτος πρέπει να είναι έγκυρος αριθμός μεγαλύτερο από 0.';
+$string['pluginname'] = 'Περιθώριο';
+$string['privacy:metadata'] = 'Το πρόσθετο Περιγράμματος δεν αποθηκεύει κανένα προσωπικό στοιχείο.';
 $string['width'] = 'Πλάτος';
-$string['width_help'] = 'Πλάτος του περιγράμματος σε χιλιοστά.';
+$string['width_help'] = 'Το πλάτος του περιγράμματος σε mm.';

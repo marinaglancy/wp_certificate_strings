@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_image', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_image', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_image
  * @category    string
@@ -26,9 +26,13 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['height'] = 'Ύψος';
-$string['isbackground'] = 'Χρήση ως εικόνα υπόβαθρου';
+$string['height_help'] = 'Ύψος της εικόνας σε mm. Αν είναι ίσο με μηδέν, υπολογίζεται αυτόματα.';
+$string['imagerequired'] = 'Πρέπει είτε να φορτώσετε μια εικόνα είτε να επιλέξετε μια κοινόχρηστη εικόνα';
+$string['invalidheight'] = 'Το ύψος πρέπει να είναι έγκυρος αριθμός μεγαλύτερος ή ίσος με 0.';
+$string['invalidwidth'] = 'Το πλάτος πρέπει να είναι ένας έγκυρος αριθμός μεγαλύτερος ή ίσος με 0.';
+$string['isbackground'] = 'Χρησιμοποιήστε ως εικόνα φόντου';
 $string['pluginname'] = 'Εικόνα';
-$string['privacy:metadata'] = 'Το πρόσθετο Εικόνας δεν αποθηκεύει προσωπικά δεδομένα.';
-$string['selectsharedimage'] = 'Επιλογή κοινής εικόνας';
+$string['privacy:metadata'] = 'Το πρόσθετο Εικόνα δεν αποθηκεύει κανένα προσωπικό στοιχείο.';
+$string['selectsharedimage'] = 'Επιλέξτε κοινόχρηστη εικόνα';
 $string['width'] = 'Πλάτος';
-$string['width_help'] = 'Πλάτος της εικόνας σε mm (χιλιοστά). Εάν δοθεί μηδέν, υπολογίζεται αυτόματα.';
+$string['width_help'] = 'Πλάτος της εικόνας σε mm. Αν είναι ίσο με μηδέν, υπολογίζεται αυτόματα';

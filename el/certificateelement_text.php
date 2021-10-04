@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_text', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_text', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_text
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Κείμενο';
-$string['privacy:metadata'] = 'Το πρόσθετο Κειμένου δεν αποθηκεύει προσωπικά δεδομένα.';
+$string['privacy:metadata'] = 'Το πρόσθετο Κείμενο δεν αποθηκεύει κανένα προσωπικό στοιχείο.';
 $string['text'] = 'Κείμενο';
-$string['text_help'] = 'Αυτό είναι το κείμενο που θα εμφανίζεται στο PDF.';
+$string['text_help'] = 'Αυτό είναι το κείμενο που θα εμφανιστεί στο PDF.';

@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_code', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_code', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_code
  * @category    string
@@ -26,9 +26,13 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['display'] = 'Εμφάνιση';
-$string['displaycode'] = 'Μόνο κώδικας';
-$string['displaycodelink'] = 'Κώδικας με σύνδεσμο';
-$string['displayqrcode'] = 'Κωδικός QR';
-$string['displayurl'] = 'Διεύθυνση URL επιβεβαίωσης';
+$string['display_help'] = 'Πώς να εμφανίσετε τον κωδικό:
+
+* Μόνο κωδικός (προεπιλογή): θα εμφανιστεί μόνο ο κωδικός για την επαλήθευση του πιστοποιητικού
+* Κωδικός και σύνδεσμος: θα εμφανίσει ένα σύνδεσμο προς τη σελίδα ελέγχου
+* URL: θα εμφανίσει τη διεύθυνση URL επαλήθευσης ως κείμενο (συνήθως για εκτυπωμένα πιστοποιητικά όπου δεν είναι δυνατό να γίνει κλικ σε έναν σύνδεσμο)';
+$string['displaycode'] = 'Κωδικός μόνο';
+$string['displaycodelink'] = 'Κωδικός με σύνδεσμο';
+$string['displayurl'] = 'Διεύθυνση URL επαλήθευσης';
 $string['pluginname'] = 'Κωδικός';
-$string['privacy:metadata'] = 'Το πρόσθετο Κωδικού δεν αποθηκεύει κανένα προσωπικό δεδομένο.';
+$string['privacy:metadata'] = 'Η προσθήκη κωδικού δεν αποθηκεύει κανένα προσωπικό στοιχείο.';

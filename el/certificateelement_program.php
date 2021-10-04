@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_program', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_program', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_program
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['fieldoptions'] = 'Πεδίο';
-$string['fieldoptions_help'] = 'Το πεδίο προς εμφάνιση. Εάν πρέπει να εμφανίσετε περισσότερα από ένα πεδία, προσθέστε περισσότερα στιγμιότυπα αυτού του στοιχείου και διαμορφώστε ανάλογα.';
-$string['pluginname'] = 'Δυναμικά πεδία';
-$string['privacy:metadata'] = 'Το πρόσθετο Δυναμικά πεδία δεν αποθηκεύει κανένα προσωπικό δεδομένο.';
+$string['fieldoptions_help'] = 'Το πεδίο που θα εμφανιστεί. Εάν πρέπει να εμφανίσετε περισσότερα από ένα πεδία, προσθέστε περισσότερα στιγμιότυπα αυτού του στοιχείου και διαμορφώστε τα ανάλογα.';
+$string['pluginname'] = 'Πρόγραμμα';
+$string['privacy:metadata'] = 'Το πρόσθετο Πρόγραμμα δεν αποθηκεύει κανένα προσωπικό στοιχείο.';

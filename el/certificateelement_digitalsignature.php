@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_digitalsignature', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_digitalsignature', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_digitalsignature
  * @category    string
@@ -26,13 +26,10 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['digitalsignature'] = 'Ψηφιακή υπογραφή';
-$string['errormultipleimages'] = 'Μπορείτε να επιλέξετε μόνο μία εικόνα (είτε ανεβασμένη, είτε διαμοιρασμένη)';
-$string['height'] = 'Ύψος';
 $string['pluginname'] = 'Ψηφιακή υπογραφή';
-$string['privacy:metadata'] = 'Το πρόσθετο Ψηφιακής υπογραφής δεν αποθηκεύει προσωπικά δεδομένα.';
-$string['signaturecontactinfo'] = 'Στοιχεία επικοινωνίας υπογραφής';
-$string['signaturelocation'] = 'Τοποθεσία υπογραφής';
+$string['privacy:metadata'] = 'Το πρόσθτο Ψηφιακής υπογραφής δεν αποθηκεύει κανένα προσωπικό στοιχείο.';
+$string['signaturecontactinfo'] = 'Στοιχεία επικοινωνίας της υπογραφής';
+$string['signaturelocation'] = 'Θέση υπογραφής';
 $string['signaturename'] = 'Όνομα υπογραφής';
-$string['signaturepassword'] = 'Κωδικός πρόσβασης υπογραφής';
-$string['signaturereason'] = 'Αιτία υπογραφής';
-$string['width'] = 'Πλάτος';
+$string['signaturepassword'] = 'Κωδικός υπογραφής';
+$string['signaturereason'] = 'Αιτιολογία υπογραφής';

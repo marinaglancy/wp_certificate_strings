@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_userfield', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_userfield', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_userfield
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Πεδίο χρήστη';
-$string['privacy:metadata'] = 'Το πρόσθετο Πεδίου χρήστη δεν αποθηκεύει προσωπικά δεδομένα.';
+$string['privacy:metadata'] = 'Το πρόσθετο Πεδίο χρήστη δεν αποθηκεύει κανένα προσωπικό στοιχείο.';
 $string['userfield'] = 'Πεδίο χρήστη';
-$string['userfield_help'] = 'Αυτό είναι το πεδίο χρήστη που θα εμφανίζεται στο PDF.';
+$string['userfield_help'] = 'Αυτό είναι το πεδίο χρήστη που θα εμφανιστεί στο PDF.';

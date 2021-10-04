@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_date', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_date', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_date
  * @category    string
@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['dateformat'] = 'Μορφότυπος ημερομηνίας';
-$string['dateformat_help'] = 'Αυτός είναι ο μορφότυπος της ημερομηνίας που θα εμφανίζεται';
+$string['dateformat'] = 'Μορφή ημερομηνίας';
+$string['dateformat_help'] = 'Αυτή είναι η μορφή της ημερομηνίας που θα εμφανιστεί';
 $string['dateitem'] = 'Στοιχείο ημερομηνίας';
-$string['dateitem_help'] = 'Αυτή είναι η ημερομηνία που θα είναι τυπωμένη στο πιστοποιητικό';
+$string['dateitem_help'] = 'Αυτή θα είναι η ημερομηνία που εκτυπώνεται στο πιστοποιητικό';
 $string['expirydate'] = 'Ημερομηνία λήξης';
 $string['issueddate'] = 'Ημερομηνία έκδοσης';
 $string['pluginname'] = 'Ημερομηνία';
-$string['privacy:metadata'] = 'Το πρόσθετο Ημερομηνίας δεν αποθηκεύει προσωπικά δεδομένα.';
+$string['privacy:metadata'] = 'Το πρόσθετο Ημερομηνία δεν αποθηκεύει κανένα προσωπικό στοιχείο.';

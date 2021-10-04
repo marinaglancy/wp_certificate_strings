@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_userpicture', language 'el', version '3.11'.
+ * Strings for component 'certificateelement_userpicture', language 'el_wp', version '3.11'.
  *
  * @package     certificateelement_userpicture
  * @category    string
@@ -26,10 +26,10 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['height'] = 'Ύψος';
-$string['height_help'] = 'Ύψος της εικόνας σε mm. Εάν ισούται με μηδέν, υπολογίζεται αυτόματα.';
+$string['height_help'] = 'Ύψος της εικόνας σε mm. Αν είναι ίσο με μηδέν, υπολογίζεται αυτόματα.';
 $string['invalidheight'] = 'Το ύψος πρέπει να είναι έγκυρος αριθμός μεγαλύτερος ή ίσος με 0.';
-$string['invalidwidth'] = 'Το πλάτος πρέπει να είναι έγκυρος αριθμός μεγαλύτερος ή ίσος με 0.';
+$string['invalidwidth'] = 'Το πλάτος πρέπει να είναι ένας έγκυρος αριθμός μεγαλύτερος ή ίσος με 0.';
 $string['pluginname'] = 'Εικόνα χρήστη';
-$string['privacy:metadata'] = 'Το πρόσθετο εικόνας χρήστη δεν αποθηκεύει κανένα προσωπικό δεδομένο.';
+$string['privacy:metadata'] = 'Το πρόσθετο Εικόνα χρήστη δεν αποθηκεύει κανένα προσωπικό στοιχείο.';
 $string['width'] = 'Πλάτος';
-$string['width_help'] = 'Πλάτος της εικόνας σε χιλιοστά. Αν δοθεί «0», θα υπολογίζεται αυτόματα.';
+$string['width_help'] = 'Πλάτος της εικόνας σε mm. Αν είναι ίσο με μηδέν, υπολογίζεται αυτόματα.';
