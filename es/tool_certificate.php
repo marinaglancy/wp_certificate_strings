@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'tool_certificate', language 'es', version '3.11'.
+ * Strings for component 'tool_certificate', language 'es_wp', version '3.11'.
  *
  * @package     tool_certificate
  * @category    string
@@ -60,21 +60,21 @@ $string['customfield_visible_help'] = 'Permitir seleccionar este campo en la pla
 $string['deleteelement'] = 'Eliminar elemento';
 $string['deletepage'] = 'Eliminar página';
 $string['duplicate'] = 'Duplicar';
-$string['editcertificate'] = 'Editar la plantilla de certificados  \'{$a}\\';
+$string['editcertificate'] = 'Editar la plantilla de certificados  \'{$a}\'';
 $string['editcontent'] = 'Editar el contenido';
 $string['editdetails'] = 'Editar detalles';
-$string['editelement'] = 'Editar \'{$a}\\';
+$string['editelement'] = 'Editar \'{$a}\'';
 $string['editelementname'] = 'Editar el nombre del elemento';
 $string['editpage'] = 'Editar página {$a}';
 $string['edittemplatename'] = 'Editar nombre de la plantilla';
 $string['elementname'] = 'Nombre del elemento';
-$string['elementwidth'] = 'Ancho, mm';
+$string['elementwidth'] = 'Ancho en mm';
 $string['entitycertificate'] = 'Certificado';
 $string['entitycertificateissue'] = 'Certificado emitido';
 $string['entitycertificateissues'] = 'Certificados emitidos';
 $string['errornopermissionissuecertificate'] = 'No tienes permiso para emitir este certificado';
 $string['eventcertificateissued'] = 'Certificado emitido';
-$string['eventcertificaterevoked'] = 'Certificado revocado';
+$string['eventcertificaterevoked'] = 'Certificados revocados';
 $string['eventcertificateverified'] = 'Certificado verificado';
 $string['eventtemplatecreated'] = 'Plantilla creada';
 $string['eventtemplatedeleted'] = 'Plantilla eliminada';
@@ -86,9 +86,9 @@ $string['font'] = 'Fuente';
 $string['font_help'] = 'La fuente utilizada para la generación de este elemento';
 $string['fontcolour'] = 'Color';
 $string['fontcolour_help'] = 'Color de la fuente';
-$string['fontsize'] = 'Tamaño, pt';
+$string['fontsize'] = 'Tamaño en pt';
 $string['fontsize_help'] = 'El tamaño de la fuente en puntos.';
-$string['hideshow'] = 'Ocultar/mostrar';
+$string['hideshow'] = 'Mostrar/ ocultar';
 $string['invalidelementwidth'] = 'Por favor ingrese un número positivo';
 $string['invalidheight'] = 'La altura debe ser un número mayor a cero.';
 $string['invalidmargin'] = 'El margen debe ser mayor a cero.';
@@ -100,30 +100,25 @@ $string['issuenewcertificate'] = 'Emitir nuevo certificado a partir de esta plan
 $string['issuenewcertificates'] = 'Emitir nuevos certificados';
 $string['issuenotallowed'] = 'No estás autorizado a emitir certificados desde esta plantilla.';
 $string['issueormangenotallowed'] = 'No estás autorizado a emitir certificados ni gestionar esta plantilla.';
-$string['leftmargin'] = 'Márgen izquierdo, mm';
+$string['leftmargin'] = 'Margen izquierdo en mm';
 $string['leftmargin_help'] = 'Este es el margen izquierdo del PDF del certificado, en milímetros.';
-$string['manageelementplugins'] = 'Gestionar';
-$string['managetemplates'] = 'Gestionar plantillas de certificado';
+$string['managetemplates'] = 'Gestionar las plantillas de certificados';
 $string['mycertificates'] = 'Mis certificados';
 $string['name'] = 'Nombre';
-$string['notificationmsgcertificateissued'] = 'Hola {$a->fullname},<br /><br />¡Tu certificado está disponible! Puedes encontrarlo aquí:
-<a href="{$a->url}">My Certificates</a>';
-$string['notificationsubjectcertificateissued'] = '¡Tu certificado está disponible!';
 $string['notverified'] = 'No verificado';
-$string['numberofpages'] = 'Número de páginas';
 $string['outcomecertificate'] = 'Emitir certificado';
 $string['outcomecertificatedescription'] = 'Emitir el certificado \'{$a}\' a los usuarios';
 $string['page'] = 'Página {$a}';
-$string['pageheight'] = 'Altura de la página, mm';
-$string['pagewidth'] = 'Ancho de la página, mm';
-$string['pluginname'] = '';
-$string['posx'] = 'Posición X, mm';
-$string['posy'] = 'Posición Y, mm';
+$string['pageheight'] = 'Altura de la página en mm';
+$string['pagewidth'] = 'Ancho de la página en mm';
+$string['pluginname'] = 'Certificado';
+$string['posx'] = 'Posición X en mm';
+$string['posy'] = 'Posición Y en mm';
 $string['privacy:metadata:tool_certificate_issues:templateid'] = 'El ID del certificado';
 $string['reg_wpcertificates'] = 'Cantidad de certificados ({$a})';
 $string['reg_wpcertificatesissues'] = 'Cantidad de certificados emitidos ({$a})';
 $string['revoke'] = 'Revocar';
-$string['rightmargin'] = 'Margen derecho, mm';
+$string['rightmargin'] = 'Margen derecho en mm';
 $string['rightmargin_help'] = 'Margen derecho del certificado en PDF, en milímetros.';
 $string['selectcertificate'] = 'Seleccionar certificado';
 $string['type'] = 'Tipo';
