@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_text', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_text', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_text
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'نص';
-$string['privacy:metadata'] = 'إن ملحق النصوص لا يخزن أي بيانات شخصية.';
+$string['privacy:metadata'] = 'ملحق النص لا يخزن أي بيانات شخصية';
 $string['text'] = 'نص';
 $string['text_help'] = 'هذا هو النص الذي سيتم عرضه على PDF.';

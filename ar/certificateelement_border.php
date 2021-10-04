@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_border', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_border', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_border
  * @category    string
@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['invalidwidth'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من 0.';
-$string['pluginname'] = 'الحد';
-$string['privacy:metadata'] = 'إن ملحق الحدود لا يخزن أي بيانات شخصية.';
+$string['invalidwidth'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من 0';
+$string['pluginname'] = 'إطار';
+$string['privacy:metadata'] = 'ملحق الإطار لا يخزن أي معلومات شخصية';
 $string['width'] = 'العرض';
-$string['width_help'] = 'عرض الحدود في مم.';
+$string['width_help'] = 'عرض الإطار بالملم';

@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_userpicture', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_userpicture', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_userpicture
  * @category    string
@@ -26,10 +26,10 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['height'] = 'ارتفاع';
-$string['height_help'] = 'إرتفاع الصورة بالملم. إذا كان يساوي صفراً، يتم حسابه تلقائياً.';
-$string['invalidheight'] = 'يجب أن يكون الارتفاع رقمًا صالحًا أكبر من أو يساوي 0.';
-$string['invalidwidth'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من أو يساوي 0.';
+$string['height_help'] = 'ارتفاع الصورة بالملم. إذا كان يساوي الصفر، يتم حسابه تلقائيًا';
+$string['invalidheight'] = 'يجب أن يكون الارتفاع رقمًا صالحًا أكبر من أو يساوي 0';
+$string['invalidwidth'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من أو يساوي 0';
 $string['pluginname'] = 'صورة المستخدم';
-$string['privacy:metadata'] = 'إن ملحق صورة المستخدم لا يخزن أي بيانات شخصية.';
-$string['width'] = 'عرض';
-$string['width_help'] = 'عرض الصورة بالملم. إذا كان يساوي صفراً، يتم حسابه تلقائياً.';
+$string['privacy:metadata'] = 'الملحق الخاص بصورة المستخدم لا يخزن أي بيانات شخصية';
+$string['width'] = 'العرض';
+$string['width_help'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من أو يساوي 0';

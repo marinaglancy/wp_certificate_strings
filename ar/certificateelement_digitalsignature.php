@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_digitalsignature', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_digitalsignature', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_digitalsignature
  * @category    string
@@ -25,16 +25,16 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['digitalsignature'] = 'توقيع إلكتروني';
-$string['errormultipleimages'] = 'يمكنك تحديد صورة واحدة فقط (سواء تم تحميلها أو مشاركتها)';
+$string['digitalsignature'] = 'توقيع رقمي';
+$string['errormultipleimages'] = 'بامكانك اختيار صورة واحدة فقط ( اما مُحمّلة أو تمت مشاركتها)';
 $string['height'] = 'ارتفاع';
-$string['height_help'] = 'إرتفاع العنصر بالملم. يمكن حساب القيمة تلقائياً للصور التي تم تحميلها/مشاركتها إذا تم ضبطها على 0، وإلا وجب تحديدها';
-$string['pluginname'] = 'توقيع إلكتروني';
-$string['privacy:metadata'] = 'لا يقوم ملحق التوقيع الالكتروني بتخزين أي بيانات شخصية.';
+$string['height_help'] = 'ارتفاع العنصر بالملم. يمكن حساب القيمة تلقائيًا للصور التي تم تحميلها / مشاركتها إذا تم تعيينها على 0 ، وإلا يجب تحديدها';
+$string['pluginname'] = 'التوقيع الرقمي';
+$string['privacy:metadata'] = 'لا يقوم ملحق التوقيع الرقمي بتخزين أي بيانات شخصية';
 $string['signaturecontactinfo'] = 'معلومات اتصال التوقيع';
 $string['signaturelocation'] = 'موقع التوقيع';
 $string['signaturename'] = 'اسم التوقيع';
 $string['signaturepassword'] = 'كلمة مرور التوقيع';
 $string['signaturereason'] = 'سبب التوقيع';
 $string['width'] = 'عرض';
-$string['width_help'] = 'عرض العنصر بالملم. يمكن حساب القيمة تلقائياً للصور التي تم تحميلها/مشاركتها إذا تم ضبطها على 0، وإلا وجب تحديدها';
+$string['width_help'] = 'عرض العنصر بالملم. يمكن حساب القيمة تلقائيًا للصور التي تم تحميلها / مشاركتها إذا تم تعيينها على 0 ، وإلا يجب تحديدها';

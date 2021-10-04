@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_date', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_date', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_date
  * @category    string
@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['dateformat'] = 'صيغة التاريخ';
+$string['dateformat'] = 'صياغة التاريخ';
 $string['dateformat_help'] = 'هذا هو تنسيق التاريخ الذي سيتم عرضه';
-$string['dateitem'] = 'تاريخ البند';
-$string['dateitem_help'] = 'سيكون هذا هو التاريخ المطبوع على الشهادة';
+$string['dateitem'] = 'عنصر التاريخ';
+$string['dateitem_help'] = 'هذا هو التاريخ الذي ستتم طباعته على الشهادة';
 $string['expirydate'] = 'تاريخ الانتهاء';
 $string['issueddate'] = 'تاريخ الاصدار';
 $string['pluginname'] = 'التاريخ';
-$string['privacy:metadata'] = 'لا يخزن ملحق التاريخ أي بيانات شخصية.';
+$string['privacy:metadata'] = 'لا يخزن ملحق التاريخ أي بيانات شخصية';

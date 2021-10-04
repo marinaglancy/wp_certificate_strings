@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_userfield', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_userfield', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_userfield
  * @category    string
@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'مجال المستخدم';
-$string['privacy:metadata'] = 'إن ملحق حقل المستخدم لا يخزن أي بيانات شخصية.';
-$string['userfield'] = 'مجال المستخدم';
+$string['pluginname'] = 'حقل المستخدم';
+$string['privacy:metadata'] = 'لا يخزن الملحق الإضافي لحقل المستخدم أي بيانات شخصية';
+$string['userfield'] = 'حقل المستخدم';
 $string['userfield_help'] = 'هذا هو حقل المستخدم الذي سيتم عرضه على PDF.';

@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_code', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_code', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_code
  * @category    string
@@ -25,14 +25,15 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['display'] = 'عرض';
-$string['display_help'] = 'كيفية عرض الرمز:
+$string['display'] = 'العرض';
+$string['display_help'] = 'كيفية عرض الكود:
 
-* الرمز فقط (افتراضي): سيعرض الرمز فقط للتحقق من الشهادة
-* الرمز والرابط: سيعرض رابطًا إلى صفحة التحقق
-* عنوان الرابط: سيعرض عنوان رابط التحقق كنص (عادةً للشهادات المطبوعة حيث لا يمكن النقر على رابط)';
+* الكود فقط (افتراضي): سيعرض الكود فقط للتحقق من الشهادة
+* الكود مع الرابط: سيعرض الرابط لصفحة التحقق
+* عنوان URL: سيعرض رابط التوثيق كنص ( عادة للشهادات المطبوعة عندما لا تكون هناك إمكانية النقر على الرابط )';
 $string['displaycode'] = 'الكود فقط';
 $string['displaycodelink'] = 'الكود مع الرابط';
-$string['displayurl'] = 'عنوان URL للتحقق';
-$string['pluginname'] = 'الكود';
-$string['privacy:metadata'] = 'إن ملحق النص البرمجي لا يخزن أي بيانات شخصية.';
+$string['displayqrcode'] = 'كود الإستجابة السريع';
+$string['displayurl'] = 'رابط التوثيق';
+$string['pluginname'] = 'كود';
+$string['privacy:metadata'] = 'ملحق الكود لا يخزن أي معلومات شخصية';

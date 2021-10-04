@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_program', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_program', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_program
  * @category    string
@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['fieldoptions'] = 'حقل';
-$string['fieldoptions_help'] = 'الحقل الذي سيتم عرضه. إذا كنت بحاجة إلى عرض أكثر من حقل، أضف المزيد من عيِّنات هذا العنصر وقم بتهيئته وفقًا لذلك.';
-$string['pluginname'] = 'بيانات القاعدة الديناميكية';
-$string['privacy:metadata'] = 'إن ملحق الحقول المتحركة لا يخزن أي بيانات شخصية.';
+$string['fieldoptions_help'] = 'الحقل الذي سيتم عرضه. إذا كنت بحاجة إلى عرض أكثر من حقل ، فأضف المزيد من مثيلات هذا العنصر وتكوينه وفقًا لذلك';
+$string['pluginname'] = 'حقول ديناميكية';
+$string['privacy:metadata'] = 'ملحق الحقل الديناميكي لا يخزن أي بيانات شخصية.';

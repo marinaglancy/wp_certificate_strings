@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'certificateelement_image', language 'ar', version '3.11'.
+ * Strings for component 'certificateelement_image', language 'ar_wp', version '3.11'.
  *
  * @package     certificateelement_image
  * @category    string
@@ -26,13 +26,13 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['height'] = 'ارتفاع';
-$string['height_help'] = 'إرتفاع الصورة بالملم. إذا كان يساوي صفراً، يتم حسابه تلقائياً.';
-$string['imagerequired'] = 'يجب عليك إما تحميل صورة أو تحديد صورة مشتركة';
-$string['invalidheight'] = 'يجب أن يكون الارتفاع رقمًا صالحًا أكبر من أو يساوي 0.';
-$string['invalidwidth'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من أو يساوي 0.';
+$string['height_help'] = 'ارتفاع الصورة بالملم. إذا كان يساوي الصف، يتم حسابه تلقائيًا';
+$string['imagerequired'] = 'عليك أن تحمّل صورة أو تختار صورة مشتركة';
+$string['invalidheight'] = 'يجب أن يكون الارتفاع رقمًا صالحًا أكبر من أو يساوي 0';
+$string['invalidwidth'] = 'يجب أن يكون العرض رقمًا صالحًا أكبر من أو يساوي 0';
 $string['isbackground'] = 'استخدم كصورة خلفية';
 $string['pluginname'] = 'صورة';
-$string['privacy:metadata'] = 'ملحق الصور لا يخزن أي بيانات شخصية.';
-$string['selectsharedimage'] = 'حدد صورة مشتركة';
+$string['privacy:metadata'] = 'البرنامج المساعد للصور لا يخزن أي بيانات شخصية';
+$string['selectsharedimage'] = 'اختر صورة مشتركة';
 $string['width'] = 'عرض';
-$string['width_help'] = 'عرض الصورة بالملم. إذا كان يساوي صفراً، يتم حسابه تلقائياً.';
+$string['width_help'] = 'عرض الصورة في مم. إذا كان يساوي الصفر ، يتم حسابه تلقائيًا.';
